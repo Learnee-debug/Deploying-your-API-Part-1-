@@ -1,1 +1,4 @@
-node_modules
+PORT=3010
+API_KEY=your_api_key_here
+SERVER_SECRET=your_server_secret_here
+IS_KALVIAN=true
